@@ -1,0 +1,19 @@
+
+.platform_container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container_body{
+    display: flex;
+    flex-grow: 1;
+}
+.content{
+    background-color: #FCFBFB;
+    width: 100%;
+    padding-left: 24px;
+}

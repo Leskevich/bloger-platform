@@ -1,0 +1,13 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 252px;
+    background: #FCFBFB;
+    gap: 24px;
+    padding-top: 42px;
+}
+
+.icon {
+    margin-right: 15px;
+}
